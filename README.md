@@ -1,12 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Nabin Bhattarai</h1>
 <h3 align="center">A passionate full Stack developer from Nepal</h3>
+<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="bhattarainabin64" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattarainabin64&label=Profile%20views&color=0e75b6&style=flat" alt="bhattarainabin64" /> </p>
-
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -15,9 +12,6 @@
 - 💬 Ask me about **React, NodeJs, Flutter**
 
 - ⚡ Fun fact **I talk to myself**
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
