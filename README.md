@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabin Bhattarai</h1>
 <h3 align="center">A passionate full Stack developer from Nepal</h3>
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattarainabin64&label=Profile%20views&color=0e75b6&style=flat" alt="bhattarainabin64" /> </p>
